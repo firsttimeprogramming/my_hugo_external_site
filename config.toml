@@ -1,4 +1,4 @@
-baseURL = 'https://firsttimeprogramming.github.io/my_hugo_external_site/'
+baseURL = 'https://benzdailylog.com'
 languageCode = 'en-us'
 title = 'My personal Hugo Site'
 theme = 'paper'
