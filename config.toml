@@ -1,6 +1,6 @@
-baseURL = 'https://firsttimeprogramming.github.io/my_hugo_external_site/'
+baseURL = 'https://benzdailylog.com'
 languageCode = 'en-us'
-title = 'My Hugo Site'
+title = 'My personal Hugo Site'
 theme = 'paper'
 
 disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # add disqus comments
